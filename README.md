@@ -14,9 +14,9 @@ BashParser — минималистичный интерактивный шел�
 ASCII-баннер при запуске 😎
 
 ⚙️ Сборка:
-`javac --release 22 BashParser.java`
-`jar cfe BashParser.jar BashParser BashParser.class`
-`java -jar BashParser.jar`
+```javac --release 22 BashParser.java```
+```jar cfe BashParser.jar BashParser BashParser.class```
+```java -jar BashParser.jar```
 
 🧩 Пример работы
 ```
