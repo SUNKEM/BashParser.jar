@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Parser-orange?style=for-the-badge&logo=openjdk">
   <img src="https://img.shields.io/badge/Bash-Shell-blue?style=for-the-badge&logo=gnubash">
