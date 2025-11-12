@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Parser-orange?style=for-the-badge&logo=openjdk">
   <img src="https://img.shields.io/badge/Bash-Shell-blue?style=for-the-badge&logo=gnubash">
-  <img src="https://img.shields.io/github/license/SUNKEM/BashParser.jar?style=for-the-badge">
+  <img src="https://img.shields.io/github.com/SUNKEM/BashParser.jar/blob/main/LICENSE">
 </p>
 
 <h1 align="center">BashParser</h1>
